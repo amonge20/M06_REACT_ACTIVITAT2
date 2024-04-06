@@ -1,0 +1,35 @@
+.cuadroContador {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.btnClick{
+    background-color: blue;
+    color: white;
+    border: rgb(183, 183, 209);
+    font-size: 125%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 1%;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 52.2%;
+}
+
+.btnReiniciar {
+    background-color: blue;
+    color: white;
+    border: rgb(183, 183, 209);
+    font-size: 125%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 7px 14px;
+    margin-left: 10px 10px;
+    margin-top: 10%;
+    cursor: pointer;
+    border-radius: 4px;
+}
